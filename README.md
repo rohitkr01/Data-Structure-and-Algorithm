@@ -1,6 +1,6 @@
-#### Data-Structure-and-Algorithm
-
-## Algorithm(4th_Edition)
+   ##               Data-Structure-and-Algorithm
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## ********* Algorithms ****************
 Reading notes of book Algorithm(4th Algorithm),ISBN: 9787115293800.
 All java realization codes are placed in different packages.
 ### [Sorting](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/Sort.md)
@@ -14,7 +14,7 @@ All java realization codes are placed in different packages.
 ### Search
 * [BinarySearch](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Search/BinarySearch.md)
 
-#### Data Structure
+#### ********  Data Structure  ***********
 I started learning the data struture systematically, I will list my notes in the order that I read the book.
 ### [Tree](https://github.com/Seanforfun/Algorithm/tree/master/DataStructrue/Tree)
 1. [Binary Tree](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Tree/%E4%BA%8C%E5%8F%89%E6%A0%91BinaryTree.md)
