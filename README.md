@@ -1,8 +1,7 @@
    ##               Data-Structure-and-Algorithm
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ********* Algorithms ****************
-Reading notes of book Algorithm(4th Algorithm),ISBN: 9787115293800.
-All java realization codes are placed in different packages.
+
 ### [Sorting](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/Sort.md)
 * [Selection](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/SelectionSort.md)
 * [Insertion](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/InsertionSort.md)
