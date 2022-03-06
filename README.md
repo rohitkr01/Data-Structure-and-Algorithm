@@ -1,17 +1,21 @@
-   ##               Data-Structure-and-Algorithm
+   ##               Data-Structure-and-Algorithms(https://github.com/rohitkr01/Data-Structure-and-Algorithm )
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ********* Algorithms ****************
 
-### [Sorting](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/Sort.md)
-* [Selection](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/SelectionSort.md)
-* [Insertion](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/InsertionSort.md)
-* [Merge](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/MergeSort.md)
-* [QuickSort](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/QuickSort.md)
-* [CountSort](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/CountSort.md)
-* [BucketSort](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Sort/BucketSort.md)
+### [Sorting](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/)
+* [Selection](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Selection Sort/SelectionSort.java)
+* [Bubble](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/InsertionSort.md)
+* [Insertion](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Insertion Sort/InseartionSort.java)
+* [Merge Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Merge Sort/MergeSort.java)
+* [Quick Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Quick Sort/QuickSort.java)
+* [Heap Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Heap Sort/HeapSort.java)
+* [Cycle_Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Cycle Sort/CycleSort.java)
+* [Count Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Insertion Sort/CountSort.java)
+* [BucketSort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/Bucket Sort/BucketSort.java)
 
-### Search
-* [BinarySearch](https://github.com/Seanforfun/Algorithm/blob/master/DataStructrue/Search/BinarySearch.md)
+### [Searching](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Searching)
+* [Linear Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Searching/Linear Search/Search an element in an array.java)
+* [Binary Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Searching/Binary%20Search/Search%20An%20Element%20in%20Sorted%20Array%20.md)
 
 ## ********  Data Structure  ***********
 I started learning the data struture systematically, I will list my notes in the order that I read the book.
