@@ -2,7 +2,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ********* Algorithms ****************
 
-### [Searching](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Searching)
+### [Searching](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/main/Searching)
 * [Linear Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Searching/Linear%20Search/Search%20an%20element%20in%20an%20array.java)
 * [Binary Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Searching/Binary%20Search/Search%20An%20Element%20in%20Sorted%20Array%20.md)
 
