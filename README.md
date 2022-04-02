@@ -8,11 +8,11 @@
 
 
 ### [Sorting](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/)
-* [Selection]
-* [Bubble]
-* [Insertion]
-* [Merge Sort]
-* [Quick Sort]
+* [Selection Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/main/Sorting%20Algorithms)
+* [Bubble Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/2.Bubble%20Sort/Bubble_Sort.java)
+* [Insertion Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/3.%20Insertion%20Sort/Insertion_Sort.java)
+* [Merge Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/4.%20Merge%20Sort/Merge_Sort.java)
+* [Quick Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/5.%20Quick%20Sort/Quick_Sort.java)
 * [Heap Sort]
 * [Cycle_Sort]
 * [Count Sort]
