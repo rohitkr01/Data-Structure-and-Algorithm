@@ -2,17 +2,17 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## ********* Algorithms ****************
 
-### [Searching](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/main/Searching)
-* [Linear Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Searching/Linear%20Search/Search%20an%20element%20in%20an%20array.java)
-* [Binary Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Searching/Binary%20Search/Search%20An%20Element%20in%20Sorted%20Array%20.md)
+### [Searching](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/master/Searching)
+* [Linear Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Searching/Linear%20Search/Search%20an%20element%20in%20an%20array.java)
+* [Binary Search](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Searching/Binary%20Search/Search%20An%20Element%20in%20Sorted%20Array%20.md)
 
 
 ### [Sorting](https://github.com/rohitkr01/Data-Structure-and-Algorithm/Sorting/)
-* [Selection Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/main/Sorting%20Algorithms)
-* [Bubble Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/2.Bubble%20Sort/Bubble_Sort.java)
-* [Insertion Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/3.%20Insertion%20Sort/Insertion_Sort.java)
-* [Merge Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/4.%20Merge%20Sort/Merge_Sort.java)
-* [Quick Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/main/Sorting%20Algorithms/5.%20Quick%20Sort/Quick_Sort.java)
+* [Selection Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/tree/master/Sorting%20Algorithms)
+* [Bubble Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Sorting%20Algorithms/2.Bubble%20Sort/Bubble_Sort.java)
+* [Insertion Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Sorting%20Algorithms/3.%20Insertion%20Sort/Insertion_Sort.java)
+* [Merge Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Sorting%20Algorithms/4.%20Merge%20Sort/Merge_Sort.java)
+* [Quick Sort](https://github.com/rohitkr01/Data-Structure-and-Algorithm/blob/master/Sorting%20Algorithms/5.%20Quick%20Sort/Quick_Sort.java)
 * [Heap Sort]
 * [Cycle_Sort]
 * [Count Sort]
