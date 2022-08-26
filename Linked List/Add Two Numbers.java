@@ -68,8 +68,60 @@ Example 3:
 Input: l1 = [0], l2 = [0]
 Output: [0]
 */
+// ONLY FUNCTION FOR LeetCode
 
-// Code
+class Solution {
+   
+   public ListNode reverseList(ListNode head){
+    if(head ==null || head.next ==null){
+        return head;
+    }
+    ListNode prevNode = null;
+    ListNode currNode = head;
+    while(currNode!=null){
+        ListNode nextNode = currNode.next;
+        currNode.next = prevNode;
+        prevNode = currNode;
+        currNode = nextNode;
+    }
+    return prevNode;
+}
+    
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode p = reverseList(l1);
+        ListNode q = reverseList(l2);
+        
+        ListNode ans = new ListNode(0);
+        ListNode itr = ans;
+        
+        int carry = 0;
+        while(p !=null || q !=null || carry != 0){
+            int x =0;
+            int y=0;
+            if(p!=null){
+                x = p.val;
+            }
+            if(q!=null){
+                y = q.val;
+            }
+           
+            
+            int sum = carry + x + y;
+            carry = sum/10;
+            itr.next = new ListNode(sum%10);
+            itr = itr.next;
+            
+            if(p!=null) p = p.next;
+            if(q!=null) q = q.next;
+        }
+        return reverseList(ans.next);
+    }
+}
+
+
+
+
+// --------- whole program in java Code
 import java.util.*;
 
 class Node{
@@ -121,7 +173,7 @@ static Node reverseList(Node head){
         Node ans = new Node(0);
         Node curr = ans;
         int carry=0;
-        while(p !=null || q!=null){
+        while(p !=null || q!=null || carry != 0){
             int x=(p!=null) ? p.data : 0;
             int y=(q!=null) ? q.data : 0;
             int sum = carry + x + y;
@@ -132,9 +184,9 @@ static Node reverseList(Node head){
             if(p!=null) p = p.next;
             if(q!=null) q = q.next;
         }
-        if(carry>0){
-            curr.next = new Node(carry);
-        }
+//         if(carry>0){
+//             curr.next = new Node(carry);
+//         }
         return reverseList(ans.next);       // return the reverse of sum of list1 and list2
     }
 
